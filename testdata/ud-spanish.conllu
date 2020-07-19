@@ -1,0 +1,69 @@
+# newdoc id = n01001
+# sent_id = n01001011
+# text = Aunque no haya precedentes para la mayor parte de la transición digital en Estados Unidos, la transición de poder pacífica es habitual, escribió el lunes en una entrada de blog Kori Schulman, Asistente Especial del presidente Obama.
+# text_en = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
+1	Aunque	_	ADP	IN	_	3	mark	_	_
+2	no	_	ADV	RB	Polarity=Neg	3	advmod	_	_
+3	haya	haber	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	_
+4	precedentes	_	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
+5	para	_	ADP	IN	_	8	case	_	_
+6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	mayor	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	8	amod	_	_
+8	parte	_	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
+9	de	_	ADP	IN	_	11	case	_	_
+10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	transición	_	NOUN	NN	Gender=Fem|Number=Sing	8	nmod	_	_
+12	digital	_	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	_
+13	en	_	ADP	IN	_	14	case	_	_
+14	Estados	_	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	Proper=True
+15	Unidos	_	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	SpaceAfter=No|Proper=True
+16	,	_	PUNCT	,	_	3	punct	_	_
+17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	transición	_	NOUN	NN	Gender=Fem|Number=Sing	23	nsubj	_	_
+19	de	_	ADP	IN	_	20	case	_	_
+20	poder	_	NOUN	NN	Gender=Masc|Number=Sing	18	nmod	_	_
+21	pacífica	_	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	_
+22	es	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	cop	_	_
+23	habitual	_	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+24	,	_	PUNCT	,	_	25	punct	_	_
+25	escribió	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	parataxis	_	_
+26	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	lunes	_	NOUN	NN	Gender=Masc|Number=Sing	25	obl:tmod	_	_
+28	en	_	ADP	IN	_	30	case	_	_
+29	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
+30	entrada	_	NOUN	NN	Gender=Fem|Number=Sing	25	obl	_	_
+31	de	_	ADP	IN	_	32	case	_	_
+32	blog	_	NOUN	NN	Gender=Masc|Number=Sing	30	nmod	_	_
+33	Kori	_	PROPN	NNP	Gender=Fem|Number=Sing	25	nsubj	_	_
+34	Schulman	_	PROPN	NNP	Gender=Fem|Number=Sing	33	flat:name	_	SpaceAfter=No
+35	,	_	PUNCT	,	_	36	punct	_	_
+36	Asistente	_	NOUN	NN	Gender=Fem|Number=Sing	33	appos	_	_
+37	Especial	_	ADJ	JJ	Gender=Fem|Number=Sing	36	amod	_	_
+38	de	de	ADP	INDT	_	40	case	_	_
+39	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
+40	presidente	_	NOUN	NN	Gender=Masc|Number=Sing	36	nmod	_	_
+41	Obama	_	PROPN	NNP	Gender=Masc|Number=Sing	40	appos	_	SpaceAfter=No
+42	.	_	PUNCT	.	_	23	punct	_	_
+
+# sent_id = n01001013
+# text = Para los que sigan las transiciones de las redes sociales de Capitol Hill, esto será algo diferente.
+# text_en = For those who follow social media transitions on Capitol Hill, this will be a little different.
+1	Para	_	ADP	IN	_	4	case	_	_
+2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	que	_	PRON	REL	Gender=Masc|Number=Plur|PronType=Int,Rel	4	nsubj	_	_
+4	sigan	_	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	xcomp	_	_
+5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	transiciones	_	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
+7	de	_	ADP	IN	_	9	case	_	_
+8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	redes	_	NOUN	NN	Gender=Fem|Number=Plur	6	nmod	_	_
+10	sociales	_	ADJ	JJ	Gender=Fem|Number=Plur	9	amod	_	_
+11	de	_	ADP	IN	_	12	case	_	_
+12	Capitol	_	PROPN	NNP	Number=Sing	9	nmod	_	_
+13	Hill	_	NOUN	NN	Number=Sing	12	flat:name	_	SpaceAfter=No|Proper=True
+14	,	_	PUNCT	,	_	4	punct	_	_
+15	esto	_	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	17	nsubj	_	_
+16	será	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	17	cop	_	_
+17	algo	_	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
+18	diferente	_	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
+19	.	_	PUNCT	.	_	17	punct	_	_
